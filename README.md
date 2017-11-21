@@ -2,7 +2,7 @@
 - E-Commerce Application (One of Sample Portfolios)
 - NodeJS, MongoDB, ReactJS and Redux (Please, check package.json)
 
-This application has basic CRUD functions, Social Login (Google) , Transaction Service and Mailing Service.
+This application has basic CRUD functions, Social Login (Google), Transaction Service, Mailing Service, and so on.
 
 If you want to run this applications, it won't because it need config file.
 
@@ -18,3 +18,5 @@ module.exports={
     sendGridKey: '',
     redirectDomain:''
 };
+
+## If you have any questions, please don't hesitate to ask me. Thank you for your consideration !
