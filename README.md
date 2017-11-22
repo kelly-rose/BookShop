@@ -9,7 +9,7 @@ This application has basic CRUD functions, Social Login (Google), Transaction Se
 - kellyrose.evergreen@gmail.com
 
 
-### If you want to run this applications, it won't because it need config file.
+### If you want to run this application, it won't because it need config file.
 - config
 module.exports={
     cookieKey: '',
